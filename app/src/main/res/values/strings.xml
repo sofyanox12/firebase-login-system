@@ -1,0 +1,11 @@
+<resources>
+    <!-- App's Core  -->
+    <string name="app_name">Firebase Login System</string>
+
+    <!-- Auth's Mechanism -->
+    <string name="email_regex">[a–zA–Z0-9._-]+@[a-z]+\\.+[a-z]+</string>
+    <string name="password_regex">^\\w{6,20}$</string>
+    <string name="email_error">Invalid Email</string>
+    <string name="password_error">Invalid Password</string>
+
+</resources>
